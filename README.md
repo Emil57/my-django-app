@@ -23,3 +23,9 @@ My first web application using django framework.
     
 - To turn off pipenv: 
     ```pipenv --rm```
+
+
+## Run App
+- ```django-admin startproject name```
+- ```cd name```
+- ```python3 manage.py runserver```
