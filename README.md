@@ -26,6 +26,9 @@ My first web application using django framework.
 
 
 ## Run App
-- ```django-admin startproject name```
-- ```cd name```
-- ```python3 manage.py runserver```
+- Create a django project
+    ```django-admin startproject name```
+- Run into the project directory
+    ```cd name```
+- Run the development server
+    ```python3 manage.py runserver```
